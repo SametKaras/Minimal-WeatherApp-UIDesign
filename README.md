@@ -18,6 +18,4 @@ Weather App UI Design with OpenWeather API including :
 
 ### Author
 
----
-
-SametKaras(https://github.com/SametKaras)]
+[Samet Karaş - GitHub](https://github.com/SametKaras)
