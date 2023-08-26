@@ -10,6 +10,11 @@ Weather App UI Design with OpenWeather API including :
 
 - WIND SPEED
 
+## Screenshot
+  <div align="center">
+    <img  src="screenshot/screenshot.png"></img>
+  </div>
+
 ---
 
 ### Author
