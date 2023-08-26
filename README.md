@@ -10,14 +10,13 @@ Weather App UI Design with OpenWeather API including :
 
 - WIND SPEED
 
-
-
 ## Screenshot
-
-![](C:\Users\ROG%20ZEPHYRUS\AppData\Roaming\marktext\images\2023-08-26-15-01-13-image.png)
-
-### Author
+  <div align="center">
+    <img  src="screenshot/screenshot.png"></img>
+  </div>
 
 ---
 
-SametKaras(https://github.com/SametKaras)]
+### Author
+
+[Samet Karaş - GitHub](https://github.com/SametKaras)
